@@ -1,0 +1,10 @@
+1:What is the ClientHello message and what info does my browser send to the server?
+2:How to find a ClientHello message
+3:how to filter TLS extensions included in ClientHello
+4:what is cipher suite 
+5:how to find a serverhello message
+6:what is a Certificate message
+7:how to capture Certificate message info
+8:Iam not seeing anything after the filter 
+9:should i access anyother website does Wikipedia has this issue?
+10:how to indentify first encrypted application data
