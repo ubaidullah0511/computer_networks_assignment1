@@ -1,0 +1,4 @@
+1:what does connection in packet capturing means and what it does?
+2:Upgrade-Insecure-Requests what is header means?
+3:what is User-Agent for in Wireshark?
+4:how to Determine whether the connection is persistent or not?
